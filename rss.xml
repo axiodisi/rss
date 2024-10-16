@@ -1,0 +1,11 @@
+<rss version="2.0">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>http://www.yourwebsite.com</link>
+    <description>Your podcast description goes here.</description>
+    <language>en-us</language>
+
+    <!-- Episode items will go here -->
+
+  </channel>
+</rss>
